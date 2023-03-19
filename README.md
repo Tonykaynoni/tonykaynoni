@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-[![RB's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonykaynoni&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RB's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonykaynoni&theme=synthwave&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently a software Engineer on my day to day job.
 - 📫 How to reach me: [this form](https://#).
